@@ -1,0 +1,17 @@
+/Users/mac/Projects/Weather App/Weather App/bin/Debug/net7.0/Weather App
+/Users/mac/Projects/Weather App/Weather App/bin/Debug/net7.0/Weather App.deps.json
+/Users/mac/Projects/Weather App/Weather App/bin/Debug/net7.0/Weather App.runtimeconfig.json
+/Users/mac/Projects/Weather App/Weather App/bin/Debug/net7.0/Weather App.dll
+/Users/mac/Projects/Weather App/Weather App/bin/Debug/net7.0/Weather App.pdb
+/Users/mac/Projects/Weather App/Weather App/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/mac/Projects/Weather App/Weather App/obj/Debug/net7.0/Weather App.csproj.AssemblyReference.cache
+/Users/mac/Projects/Weather App/Weather App/obj/Debug/net7.0/Weather App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/Weather App/Weather App/obj/Debug/net7.0/Weather App.AssemblyInfoInputs.cache
+/Users/mac/Projects/Weather App/Weather App/obj/Debug/net7.0/Weather App.AssemblyInfo.cs
+/Users/mac/Projects/Weather App/Weather App/obj/Debug/net7.0/Weather App.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/Weather App/Weather App/obj/Debug/net7.0/Weather App.csproj.CopyComplete
+/Users/mac/Projects/Weather App/Weather App/obj/Debug/net7.0/Weather App.dll
+/Users/mac/Projects/Weather App/Weather App/obj/Debug/net7.0/refint/Weather App.dll
+/Users/mac/Projects/Weather App/Weather App/obj/Debug/net7.0/Weather App.pdb
+/Users/mac/Projects/Weather App/Weather App/obj/Debug/net7.0/Weather App.genruntimeconfig.cache
+/Users/mac/Projects/Weather App/Weather App/obj/Debug/net7.0/ref/Weather App.dll

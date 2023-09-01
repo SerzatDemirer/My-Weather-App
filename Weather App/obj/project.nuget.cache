@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xujOVY8ek98GdQYRQLxxzdkbkYcj+dUjKLqb8dQPiNq8z8ACsvTps6lsfUqcl2EpM1l4L/eE7YVFeknljQ+fMg==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Desktop/WORKSPACE-EC/6-Backend-1/Projects/Weather App/Weather App/Weather App.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
